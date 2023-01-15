@@ -1,0 +1,13 @@
+﻿  Background.cpp
+  Food.cpp
+C:\Users\caitl\Documents\Year 1\IMAT1908 OOP C++\Caitlin_Doleman_Deliverable2\src\Food.cpp(19,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\caitl\Documents\Year 1\IMAT1908 OOP C++\Caitlin_Doleman_Deliverable2\src\Food.cpp(20,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\caitl\Documents\Year 1\IMAT1908 OOP C++\Caitlin_Doleman_Deliverable2\src\Food.cpp(21,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Game.cpp
+  Score.cpp
+  Snake.cpp
+  Generating code
+  Compiler switch has changed, fall back to full compilation.
+  All 197 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Caitlin_Doleman_Deliverable2.vcxproj -> C:\Users\caitl\Documents\Year 1\IMAT1908 OOP C++\Caitlin_Doleman_Deliverable2\Release\Caitlin_Doleman_Deliverable2.exe
